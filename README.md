@@ -1,7 +1,7 @@
 
 # EDA on Most Common Public Detasets
 
-This projects is a growing repository of wide array of EDA performed on common public datasets. The repository provides a detailed step-by-step guide on how to perform EDA on various public datasets using Python and popular data analysis libraries such as Pandas, Matplotlib, and Seaborn.
+This project is a growing repository of wide array of EDA performed on common public datasets. The repository provides a detailed step-by-step guide on how to perform EDA on various public datasets using Python and popular data analysis libraries such as Pandas, Matplotlib, and Seaborn.
 
 ## Dependencies
 
